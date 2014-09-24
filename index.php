@@ -2,8 +2,7 @@
 <html>
 <head>
     <meta charset=utf-8>
-    <title><user/title>
-    <link href="style.css" media="screen" rel="stylesheet">
+    <title><user</title>
     <script type="text/javascript" src="whoer.notpacked.js"></script>
 
 </head>
@@ -11,15 +10,14 @@
 
 <div>
 
-    <h1>home</h1>
+    <h1>user</h1>
 
 
 </div>
 <script type="text/javascript">
-    scripts.screen( 'sscreen' );
+    scripts.screen( 'screen' );
 </script>
 
-<script type="text/javascript" src="../jquery.min.js"></script>
 <script type="text/javascript" src="script.js"></script>
 
 </body>
