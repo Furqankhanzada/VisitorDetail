@@ -504,7 +504,6 @@ scripts = {
                              "left", "availTop", "availLeft", "window size" ];
 
         for ( var i in screen_names ) {
-            //if (typeof(window.screen[screenNames[i]]) == "undefined") continue;
 
             document.write( '<tr><td style="padding-left: 20px;" class="wtl'
                             + td_add + '">'
